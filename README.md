@@ -22,6 +22,9 @@ This project showcases the following REST API versioning techniques:
 
 Each version returns a simple response representing a person's name.
 
+Path to REST API versioning example 
+`src/main/java/com/ashishrai/rest_api_versioning/controller`
+
 ---
 
 ## Techniques Demonstrated
